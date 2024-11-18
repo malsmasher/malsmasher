@@ -8,7 +8,7 @@
 * [Проект №2](https://github.com/malsmasher/Test-task)
 Тестирование API, работа в Postman, Swagger.
 * [Проект №3](https://github.com/malsmasher/NEXTRACKER-app?tab=readme-ov-file)
-Тестирование приложения.
+Тестирование мобильного приложения.
 * пополняется
 
 ### Где и как учусь:
