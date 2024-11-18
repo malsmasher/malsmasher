@@ -1,4 +1,5 @@
-## Hi there 👋
+![photo_2024-11-18_19-51-26](https://github.com/user-attachments/assets/56aa3cb9-8892-4c71-a60b-8b11d139ffae)
 
-![Изображение](https://drive.google.com/file/d/1yRYAxtWx1ko0qceHyOzE6gxv7zTgu454/view?usp=drive_link)
+## Привет! 👋
+Меня зовут Мария, я начинающий Тестировщик.
 
