@@ -4,7 +4,7 @@
 
 ### Мои проекты:
 * [Тестирование API](https://github.com/malsmasher/Integration-of-Bitrix-24-with-a-mobile-application)<br>
-  *Коммерческий проект*
+  *Коммерческий проект. Интеграция Битрикс24 и собственного мобильного приложения компании*
 * [Тестирование фронтенда web-сервиса](https://github.com/malsmasher/Test-cases-for-the-form?tab=readme-ov-file)<br>
   *Учебный проект*
 * [Тестирование API](https://github.com/malsmasher/Test-task)<br>
